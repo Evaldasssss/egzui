@@ -8,7 +8,7 @@ npm start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
 
-kliento dalies prisijungimas: useris, psw 123
+kliento dalies prisijungimas: useris, psw 123;
 administracines dalies prsijungimas: admin, psw 123
 
 The page will reload when you make changes.
